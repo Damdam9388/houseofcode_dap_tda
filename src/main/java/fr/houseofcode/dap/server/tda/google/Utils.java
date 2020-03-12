@@ -26,7 +26,7 @@ public class Utils {
 	/**
 	 * .
 	 */
-	private static final String TOKENS_DIRECTORY_PATH = "C:/Users/damie/Dap/tokens";
+	private static final String TOKENS_DIRECTORY_PATH = "D:/Users/dterro/Dap/tokens";
 
 	/**
 	 * Global instance of the scopes required by this quickstart.
@@ -36,7 +36,7 @@ public class Utils {
 	/**
 	 *...
 	 */
-	private static final String CREDENTIALS_FILE_PATH = "C:/Users/damie/Dap/credentials.json";
+	private static final String CREDENTIALS_FILE_PATH = "D:/Users/dterro/Dap/tokens/credentials.json";
 
 	/**
 	 * Creates an authorized Credential object.
